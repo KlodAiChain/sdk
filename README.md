@@ -1,5 +1,7 @@
 # 🚀 Klod AI
 
+Official CA : Ae9n9DM9Rd5MwDkpPuxsAySs5K3BsvBhxvLDVXF6pump
+
 **Klod AI — smarter tools, faster decisions, better outcomes through AI innovation.**
 
 Klod AI is a next-generation platform designed to empower individuals and businesses with intelligent tools that transform data into actionable insights. By combining cutting-edge artificial intelligence with intuitive design, Klod AI helps you make faster, smarter, and more impactful decisions.
