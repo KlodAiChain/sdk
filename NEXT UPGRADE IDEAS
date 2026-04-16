@@ -1,0 +1,7 @@
+/*
+- Integrate OpenAI API
+- Add authentication (JWT)
+- Build React frontend
+- Deploy (Vercel + Render)
+- Add database (MongoDB)
+*/
